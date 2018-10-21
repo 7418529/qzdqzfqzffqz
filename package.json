@@ -19,6 +19,8 @@
     "express": "^4.16.3",
     "fs": "0.0.1-security",
     "ms": "^2.1.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
     "node-gyp": "^3.6.2",
     "node-opus": "^0.2.7",
     "simple-youtube-api": "5.0.1",

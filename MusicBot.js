@@ -9,7 +9,7 @@ const fs = require('fs')
 
 const client = new Client({ disableEveryone: true });
 
-const youtube = new YouTube(process.env.YT_API);
+const youtube = new YouTube('AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8');
 
 const queue = new Map();
 
